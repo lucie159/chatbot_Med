@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Audio or media responses
+*.mp3
+*.wav
+
+# Docker
+*.log
+*.pid
+
+# Frontend node_modules if any
+node_modules/
+frontend/node_modules/

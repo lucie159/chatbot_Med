@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+whisper
+transformers
+peft
+gtts
+torch
+torchaudio
+pydub
+librosa
+numpy
+scipy
+python-multipart
